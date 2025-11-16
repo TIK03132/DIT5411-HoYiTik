@@ -1,6 +1,5 @@
-# DIT5411-HoYiTik  
+# THEi DIT5411 Machine Learning Assignment (Character Recognition) 
 **Handwritten Chinese Character Recognition using Deep Learning**  
-*Submitted by: Ho Yi Tik (@HoYiTik)*  
 *Course: DIT5411 – Deep Learning for Computer Vision*  
 *Date: November 17, 2025*
 
